@@ -22,7 +22,7 @@
   "author": "Leon van Kammen / Coder of Salvation",
   "license": "BSD",
   "dependencies": {
-    "tv4-node": "0.0.0"
+    "tv4-node": "0.0.1"
   },
   "devDependencies": {
     "buble": "^0.15.1",
